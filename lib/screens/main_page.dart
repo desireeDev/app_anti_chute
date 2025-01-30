@@ -4,9 +4,6 @@ import 'package:app_antichute/widgets/section_title.dart';
 import 'package:app_antichute/widgets/product_item.dart';
 import 'package:app_antichute/screens/chute_list_screen.dart';
 
-
-
-
 class MainPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
